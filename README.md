@@ -14,3 +14,7 @@ Remarque: The matrix returned is a sparse matrix object.
 ### function.py
 
 See documentation of the various functions in it.
+
+### General_case_ooe_fluxes
+
+Example of how to use this modules
