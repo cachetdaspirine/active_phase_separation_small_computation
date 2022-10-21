@@ -1,0 +1,11 @@
+__pycache__/
+.ipynb_checkpoints/
+Daniel/
+old_stoch_mat/
+old_try/
+.ipynb
+2_species_phase_sep.nb
+compare_finite_difference_methods.ipynb
+compute_ooe_ss.ipynb
+solving_chemical_part_only.nb
+step_potential.nb
