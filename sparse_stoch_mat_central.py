@@ -1,4 +1,3 @@
-from xml.dom import IndexSizeErr
 import numpy as np
 from scipy.sparse import csr_matrix
 # Define the M matrix :
