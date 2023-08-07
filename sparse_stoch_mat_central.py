@@ -18,9 +18,6 @@ def make_transition_matrix(Va,Vb,Vc, # potential
     """
     #matrix = np.zeros((3*n,3*n),dtype=float)
     
-    row = list()#np.zeros(((n-2)*5+2*4)*3,dtype=int)
-    col = list()
-    data = list()
     row_col_data = list()
 
     dx = (Xf-X0)/n
